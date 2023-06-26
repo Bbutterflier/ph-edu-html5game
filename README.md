@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/yandeu/phaser3-multiplayer-with-physics#readme"><img src="readme/phaser-with-nodejs.png" alt="header" width="400"></a>
+  <a href="https://github.com/Julius-NSRS/ph-edu-html5game#readme"><img src="readme/phaser-with-nodejs.png" alt="header" width="400"></a>
   <br>
   Phaser 3 - Real-Time Multiplayer example with Physics
   <br>
